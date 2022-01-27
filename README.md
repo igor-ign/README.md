@@ -1,3 +1,5 @@
+*If your native language aren't portuguese I prepared a 'about me' in English below the portuguese text.
+
 - 👋 Bem-vindo ao meu perfil! Meu nome é Igor, muito prazer.
 - 📫 Meu e-mail para contato: euleiodps@gmail.com
 - 🧑 Tenho 19 anos.
