@@ -18,5 +18,5 @@
 - 🖥️ Languages I Know: JavaScrit, HTML, CSS.
 - 🔎 I'm looking for my first experience in the IT job market!
 - 🎓 I'm currently studying Analysis and System development at University Feevale from Novo Hamburgo - Rio Grande do Sul - Brazil.
-- 🤓 English level: medium.
+- 🤓 English level: intermediary.
 - 📌 Currently living in São Leopoldo - Rio Grande do Sul - Brazil
