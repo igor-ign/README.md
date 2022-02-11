@@ -15,7 +15,8 @@
 - 👋 Welcome to my profile! My name is Igor, nice to meet you!
 - 📫 My e-mail for contact: euleiodps@gmail.com
 - 🧑 I'm 19 years old.
-- 🖥️ Languages I Know: JavaScrit, HTML, CSS.
+- 🖥️ I program in JavaScript
+- 🌱 I develop in HTML and CSS
 - 🔎 I'm looking for my first experience in the IT job market!
 - 🎓 I'm currently studying Analysis and System development at University Feevale from Novo Hamburgo - Rio Grande do Sul - Brazil.
 - 🤓 English level: intermediary.
