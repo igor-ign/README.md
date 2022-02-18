@@ -7,7 +7,7 @@
 - 🌱 Eu desenvolvo em HTML e CSS;
 - 🔎 Estou buscando minha primeira experiência dentro do mercado de TI!
 - 🎓 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade Feevale de Novo Hamburgo - Rio Grande do Sul;
-- 🤓 Meu inglês é de nível médio;
+- 🤓 Meu inglês é de nível intermediário;
 - 📌 Atualmente estou morando em São Leopoldo - Rio Grande do Sul - Brasil.
 
 *If you don't speak portuguese read the lines below
